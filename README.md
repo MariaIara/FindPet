@@ -1,13 +1,5 @@
-# PushPHP
-
-> _Push Your Web Development Forward._
-
-A minimalist PHP microframework MVC designed to simplify your web development process.
-
-## Documentation
-
-For comprehensive documentation, visit the [Official Documentation](https://github.com/gabrielrez/OtterPHP).
-
----
-
-Happy coding!
+O sistema proposto é uma plataforma web para uma clínica veterinária que
+fornece e gerencia coleiras com QR Codes para identificação e rastreamento
+de animais de estimação. O sistema permite que qualquer pessoa que
+encontre um animal possa acessar informações sobre o pet e entrar em
+contato com o tutor responsável.
